@@ -32,3 +32,20 @@ footer {
 figure img {
   width: 200px;
 }
+
+nav a:hover {
+  font-weight: bold;
+}
+
+.featured-image {
+  width: 100%;
+  max-height: 300px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+}
